@@ -1,2 +1,2 @@
-# technical-indicators
+# Technical-Indicators
 coding technical indicators
