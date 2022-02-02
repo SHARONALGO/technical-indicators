@@ -1,3 +1,5 @@
+#  we have a here a function that performs similiarly to the coding indicator macd(moving average convergence divergence)
+
 def MACD(DF,a,b,c):
     """function to calculate MACD
        typical values a(fast moving average) = 12; 
